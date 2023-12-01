@@ -70,3 +70,16 @@ The final model, a Random Forest Classifier, has demonstrated great performance 
 -**Extended Stakeholder Involvement:** Involve a broader range of stakeholders, including patients, in the model development process to incorporate diverse perspectives and address ethical considerations.
 
 -**Model Updates:** Periodically retrain the model with new data to ensure its relevance and effectiveness over time. Stay informed about advancements in obesity research to incorporate the latest findings into the model.
+
+## README Navigation
+
+- [Business Understanding](#business-understanding)
+  - [Problem Statement](#problem-statement)
+  - [Objectives](#objectives)
+- [Data Understanding](#data-understanding)
+  - [Exploratory Data Analysis](#exploratory-data-analysis)
+  - [Modeling](#modeling)
+  - [Evaluation](#evaluation)
+- [Conclusions](#conclusion)
+- [Recommendations](#recommendations)
+- [Next Steps](#next-steps)
