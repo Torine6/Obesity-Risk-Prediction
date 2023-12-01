@@ -1,0 +1,36 @@
+This file contains a description of the attributes in our dataset.
+
+
+The attributes related with eating habits are:
+FAVC - Frequent consumption of high caloric food
+FCVC - Frequency of consumption of vegetables
+NCP - Number of main meals
+CAEC - Consumption of food between meals
+CH2O - Consumption of water daily
+CALC - Consumption of alcohol
+
+
+The attributes related to the physical condition are: 
+SCC - Calories consumption monitoring
+FAF - Physical activity frequency
+TUE - Time using technology devices
+MTRANS - Transportation used
+SMOKE - Smoker or not
+family_history_with_overweight - Family history with overweight
+NObesity - Obesity level deducted
+
+
+The variables obtained: 
+Gender - Gender of respondents
+Age - Age of respondents
+Height - Body height
+Weight - Body weight
+
+
+NObesity values are:
+Underweight - Less than 18.5
+Normal - 18.5 to 24.9
+Overweight - 25.0 to 29.9
+Obesity I - 30.0 to 34.9
+Obesity II - 35.0 to 39.9
+Obesity III - Higher than 40
