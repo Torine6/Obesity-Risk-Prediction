@@ -78,7 +78,7 @@ The final model, a Random Forest Classifier, has demonstrated great performance 
   - [Objectives](#objectives)
 - [Data Understanding](#data-understanding)
   - [Exploratory Data Analysis](#exploratory-data-analysis)
-  - [Modeling](#modeling)
+- [Modeling](#modeling)
   - [Evaluation](#evaluation)
 - [Conclusions](#conclusion)
 - [Recommendations](#recommendations)
